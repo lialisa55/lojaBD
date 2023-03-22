@@ -51,4 +51,13 @@ insert ALL
     into cliente values (290, 'Renato', 'Rua Meireles, 123', 'São Paulo', '30225900', 'SP', '13276571/1231-4', '1820')
     into cliente values (390, 'Sebastião', 'Rua da Igreja, 10', 'Uberaba', '30438700', 'MG', '32176547/213-3', '9071')
     into cliente values (234, 'José', 'Quadra 3, Bl. 3, sl. 1003', 'Brasília', '22841650', 'DF', '21763576/1232-3', '2931')
+    into vendedor values (209, 'José', 1800, 'C')
+    into vendedor values (111, 'Carlos', 2490, 'A')
+    into vendedor values (11, 'João', 2780, 'C')
+    into vendedor values (240, 'Antônio', 9500, 'C')
+    into vendedor values (720, 'Felipe', 4600, 'A')
+    into vendedor values (213, 'Jonas', 2300, 'A')
+    into vendedor values (101, 'João', 2650, 'C')
+    into vendedor values (310, 'Josias', 870, 'B')
+    into vendedor values (250, 'Maurício', 2930, 'B')
 SELECT * FROM dual;
